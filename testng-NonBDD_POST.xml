@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="C:/Users/HP/IdeaProjects/ATB9xAPIAutomationPrograms">
         <classes>
-            <class name="com.thetestingacademy.ex02_RestAssuredBasics.GET.APITesting008_GET_NonBDDStyle">
+            <class name="com.thetestingacademy.ex02_RestAssuredBasics.POST.APITesting010_POST_BDD">
 
             </class>
         </classes>
